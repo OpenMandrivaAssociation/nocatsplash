@@ -12,6 +12,7 @@ Source1:	NoCatSplashSetup.txt
 Source2:	%{realname}-firewall-scripts.tar.bz2
 Patch0:		NoCatSplash-mdv-greeting.patch
 URL:            http://nocat.net/wiki/index.cgi?NoCatSplash
+BuildRoot:	%{_tmppath}/%{name}-root
 Requires:	iptables
 
 %description
