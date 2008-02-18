@@ -1,6 +1,6 @@
 %define realname NoCatSplash
 
-Summary:	NoCatSplash is a Open Public Network Gateway Daemon
+Summary:	Open Public Network Gateway Daemon
 Name:		nocatsplash
 Version:	0.93pre2
 Release:	%mkrel 2
