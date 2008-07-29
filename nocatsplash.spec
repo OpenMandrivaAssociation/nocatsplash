@@ -3,7 +3,7 @@
 Summary:	Open Public Network Gateway Daemon
 Name:		nocatsplash
 Version:	0.93pre2
-Release:	%mkrel 3
+Release:	%mkrel 5
 License:        GPL
 Group:		Networking/Remote access
 BuildRequires:	glib-devel
