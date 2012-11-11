@@ -1,0 +1,11 @@
+--- NoCatSplash-nightly/nocat.conf.in.mdk	2003-11-03 18:15:34.000000000 -0500
++++ NoCatSplash-nightly/nocat.conf.in	2003-11-03 18:15:51.000000000 -0500
+@@ -19,7 +19,7 @@
+ # GatewayName -- The name of this gateway, to be optionally displayed
+ #   on the splash and status pages. Any short string of text will do.
+ #
+-GatewayName	the NoCat Network
++GatewayName	Mandriva Linux NoCat Network
+ 
+ ##
+ #
